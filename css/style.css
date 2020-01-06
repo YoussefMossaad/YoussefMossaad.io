@@ -1,5 +1,15 @@
 h1 {
   text-align: center;
   font-family: 'Ma Shan Zheng', cursive;
-  color:#FF0000;
+  color:#2abdbf;
+  font-size: 80px;
+}
+.headers {
+  font-family: 'Ma Shan Zheng', cursive;
+  color:white;
+  font-size: 60px;
+}
+.design {
+  color:#2abdbf;
+  font-size: 25px;
 }
