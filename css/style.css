@@ -4,7 +4,7 @@ h1 {
   color:#2abdbf;
   font-size: 80px;
 }
-.headers {
+#headers {
   font-family: 'Ma Shan Zheng', cursive;
   color:white;
   font-size: 60px;
@@ -12,4 +12,15 @@ h1 {
 .design {
   color:#2abdbf;
   font-size: 25px;
+}
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+table {
+  border-color: white;
+}
+.feat-title {
+   font-size:36px;
+   color:#2abdbf;
 }
